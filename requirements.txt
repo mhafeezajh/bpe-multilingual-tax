@@ -1,0 +1,2 @@
+# No external dependencies — pure standard-library Python 3.11+.
+# Empty requirements file kept for tooling compatibility.
